@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\DayThreeAgeDistribustion\DayThreeAgeDistribustion\bin\Debug\DayThreeAgeDistribustion.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DayThreeAgeDistribustion\DayThreeAgeDistribustion\bin\Debug\DayThreeAgeDistribustion.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DayThreeAgeDistribustion\DayThreeAgeDistribustion\bin\Debug\DayThreeAgeDistribustion.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DayThreeAgeDistribustion\DayThreeAgeDistribustion\obj\Debug\DayThreeAgeDistribustion.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DayThreeAgeDistribustion\DayThreeAgeDistribustion\obj\Debug\DayThreeAgeDistribustion.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DayThreeAgeDistribustion\DayThreeAgeDistribustion\obj\Debug\DayThreeAgeDistribustion.pdb

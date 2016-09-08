@@ -49,6 +49,14 @@ namespace DayThreeAgeDistribustion
             {
                 Console.WriteLine("Working for the Man");
             }
-         }       
+            else if (userAge >= 66 && userAge <= 100)
+            {
+                Console.WriteLine("The Golden Years");
+            }
+            else
+            {
+                Console.WriteLine("This program is for humans");
+            }
+        }       
     }
 }
